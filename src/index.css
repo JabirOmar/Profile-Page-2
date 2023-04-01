@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link.active { background-color: lightskyblue;}
+.link.active:hover { background-color: lightskyblue;}
